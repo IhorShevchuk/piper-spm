@@ -1,4 +1,4 @@
-Development has moved: [https://github.com/OHF-Voice/piper1-gpl](https://github.com/IhorShevchuk/piper1-gpl-spm)
+Development has moved: [https://github.com/IhorShevchuk/piper1-gpl-spm](https://github.com/IhorShevchuk/piper1-gpl-spm)
 
 # Piper Swift Package
 
